@@ -1,4 +1,4 @@
-FROM opendronemap/odm:latest
+FROM registry.gitlab.com/horusaeronaves/node-horus/horus-odm:dev
 MAINTAINER Piero Toffanin <pt@masseranolabs.com>
 
 EXPOSE 3000
